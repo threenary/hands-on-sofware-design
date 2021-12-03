@@ -1,0 +1,52 @@
+What is a good design?
+-proper abstraction
+-easy to update and to add new features
+-works as expected
+-easy to change for future requirements
+-extensible
+-easy to communicate and understand
+-reveals intentions
+-seperation of concern
+-efficient
+-simple
+-well documented
+-consistent
+-relevant to the application at hand
+-testable
+-...
+
+https://twitter.com/venkat_s/status/561046784186015744
+
+Economic consequences and impact
+
+Characteristic of good design:
+-Simple
+-Fewer moving parts
+-Relevant
+-high cohesion
+-low and loose coupling
+
+Cohesion:
+-like things are together and unlike things are apart
+  - context really matters
+-code that does one thing and one thing really well
+-narrow and focused
+-That changes are less frequent
+-The cost of change is minimized
+
+Coupling:
+-low coupling - we want to depend on fewer things (for any language)
+-loose coupling instead of tight coupling (mostly for statically typed languages)
+
+The reason again is to lower the frequency of change
+
+Both low and loose coupling
+
+
+
+
+
+
+
+
+
