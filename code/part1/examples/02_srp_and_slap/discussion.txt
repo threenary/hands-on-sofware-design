@@ -1,0 +1,72 @@
+Single Responsibility Principle (SRP):
+-A piece of code (class, function, etc.) should have a single responsibility
+-should have a single reason to change
+-but often we forget that single reason to change and sadly focus on the
+word responsibility
+
+-SRP is really about cohesion
+
+-sometimes people go overboard with this and say things like a code with
+if-else fails SRP or a function that takes multiple parameters fails SRP,...
+
+Long functions or long methods:
+
+Do you think writing long functions is a good idea?
+yes/no
+
+Have you recently seen long functions at work?
+yes/no
+
+Cognitive dissonance
+
+Why are long functions such a bad idea?
+-hard to test
+-hard to read
+-hard to understand
+-hard to change
+-hard to debug
+-hard to reuse
+-leads to duplication of code
+-low cohesion  | diagonal opposite 
+-high coupling | of good design
+
+How long is long?
+10,000 lines in a function
+1000 lines
+100 lines?
+...
+
+We can't agree on the size of a function based on the length
+
+It turns out the length of function is not based on the number of lines of
+code in it.
+
+
+How was your weekend?
+  Went to the park on Saturday
+  Went to a movie on Sunday
+
+Which park?
+  One by the Main street
+
+Is it family friendly?
+  ...
+
+It is about how we decompose our functions... not about SRP as much, but
+this is called SLAP - Single Level of Abstraction Principle
+
+15 lines are ok is all those lines are at a single level of detail or abstraction
+
+It turns out the length of a function is not about the number of lines of
+code in it, but is based on the number of levels of nesting or indentation
+
+A good design has one single level of abstraction or detail.
+
+
+It is really about how we decompose our code
+
+
+
+
+
+
