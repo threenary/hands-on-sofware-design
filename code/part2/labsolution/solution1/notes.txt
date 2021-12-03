@@ -1,0 +1,26 @@
+Design goals:
+
+1. A remote may control one of mutiple different device: TV, Fan, etc.
+2. We may have zero or more remotes that may control a particular device, like an instance of a TV at the same time
+
+The problem with the given design:
+Remote is not extensible. If we add a new device, we have to change the Remote.
+
+Solution:
+Make a Device interface
+
+What is good:
++Remote is extensible. We don't have to change the Remote if we add a new type of device.
+
+What needs improvement:
+-TV, Fan, etc. are forced to implement some interface called Device just because a Remote wants to
+control it.
+-Suppose we have something else similar to do in the future we have to implement more interface.
+-We may potentially have method collision between such interfaces.
+-We are polluting the public interface of TV, Fan, etc. with up and down methods that don't directly
+relate to their abstractions
+-Violates SRP or chesion by polluting the public interface
+-The methods like up and down are useful for Remote, but anyone can use it too
+
+
+

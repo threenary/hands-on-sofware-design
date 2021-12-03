@@ -1,0 +1,37 @@
+Design goals:
+
+1. A remote may control one of mutiple different device: TV, Fan, etc.
+2. We may have zero or more remotes that may control a particular device, like an instance of a TV at the same time
+
+The problem with the given design:
+Remote is not extensible. If we add a new device, we have to change the Remote.
+
+In solution 1 we saw an approach that solve our problem but also left us thinking about a few new issues.
+
+Solution:
+Use a Remote interface and implement it within the devices, but as inner classes.
+
+What is good:
+Remote is extensible, in fact it is the most stable because it is an interface.
+Users of this Remote abstraction are stable from the dependency to it point of view.
+
+TV, Fan, etc. don't have to comply to some arbitrary interface
+No pollution of public interface with up, down, etc.
+We have no issues of method collision
+Remote methods don't have to access any public method, they can access the internals directly and benefit
+
+What needs improvement:
+We are using an inner class which makes the file a bit longer. In languages like C# we can use
+partial classes to move the inner class to another file or in C#, Kotlin, etc. we can use extension
+functions to put that elsewhere, but hard to do that in Java.
+
+
+
+
+
+
+
+
+
+
+
