@@ -1,0 +1,87 @@
+Inheritance is the weakest link of OOP
+
+Inheritance is predominantly a feature is necessary in statically typed language.
+
+Inheritance leads to tight coupling between the derived class and its base class.
+
+Should we use inheritance or delegation?
+
+If an object of B wants to use an object of A, then use delegation.
+If an object of B may be used where an object of A is used, then use inheritance.
+
+Look for not reuse, but for subtitutability.
+
+class Person extends LivingCreature {
+  private Car car;
+}
+
+Delegation is more common that Composition. Composition in object modeling
+often ties the lifetime of objects.
+
+Delegation may be implemented using aggregation, association, or composition.
+
+To use       vs. to be used as.
+Delegation       Inheritance
+
+
+When we use inheritance we have to abide by a contract. It takes more effort
+to get inheritance correct.
+
+Barbara Liskov's Substitution Principle
+A user of a base class should be able to use an instance of a derived class
+without knowing the difference.
+
+The derived class services should require no more and promise no less than
+the corresponding services of the base class.
+
+Why?
+
+If the user of a base needs to do different things based on the given instance
+being one of base or a drived, then the user's code will violate OCP, that
+is, if we add a new derived class, the user's code may have to change, making
+it not extensible.
+
+LSP during inheritance is really to make sure the users of our hieararchy
+are not forced to violate OCP.
+
+Good examples of LSP:
+
+1. In Java if a method is public in base, it can't be protected or private
+in derived.
+
+2. In Java, if a base method does not throw a check exception, then
+an overriding method in the derived is not allowed to throw that exception (with
+some exceptions to that rule).
+
+user(Base base) {
+  try {
+    base.f1();
+  } catch(E1 ex) {
+    ...handle...
+  }
+}
+
+If f1 were to throw E2 which is unrelated to E1, when the instance is of
+type Derived, then the user code will fail. Also, the user may have to
+check for the type, and then try catch E2. Violation of OCP in that case.
+
+We better honor LSP.
+
+
+An example of violation of LSP:
+In Java, 
+
+class Stack extends Vector //oh, no
+
+
+This is an example where delegation would have been better.
+
+Given the above, the invariants of a Stack may be violated when an instance
+of a Stack is sent where an instance of a Vector is expected.
+
+
+Choose delegation for reuse. Choose inheritance for substitability.
+
+Do we want to use Stack where Vector is used. No, then don't use inheritance.
+Do we want to reused Vector in the implementation of Stack. Yes, use delegation.
+
