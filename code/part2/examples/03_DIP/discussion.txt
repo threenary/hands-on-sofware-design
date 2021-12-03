@@ -1,0 +1,49 @@
+Dependency Inversion Principle (DIP)
+
+A concrete class should not depend on another concrete class; instead both
+should depend on an interface.
+
+Please don't use this blindly
+
+A concrete class depending on another concrete class is tight coupling.
+If we want to use a different flavor it becomes hard in the future.
+
+class OrderProcessor {
+  process(Order order, CreditCard creditCard) {}
+}
+
+OrderProcessor tightly couples to Order and CreditCard.
+
+What do we anticipate?
+
+If our domain experts tell us that we will only use that particular Order
+in our application based on the domain - forever.
+
+Then tight coupling to the Order is not a bad idea.
+
+If our domain experts tell us we are going to use a credit card now, but
+we have plans in the near future to use other payment method.
+
+We may want to create an abstraction for the PaymentMethod.
+
+
+  process(Order order, PaymentMethod paymentMethod) {}
+
+
+
+OrderProcessor ---> Order
+               ---> CreditCard
+
+
+
+OrderProcessor  ---> Order
+                ---> PaymentMethod <|----  CreditCard
+
+
+What is that "inversion" in DIP?
+
+Instead of the dependency going into the CreditCard, now the dependency is
+going outward from the CreditCard.
+
+
+
