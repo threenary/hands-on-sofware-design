@@ -1,0 +1,7 @@
+Kent Beck's 4 Rules of Simple Design (in the highest to the lowerst order of
+precedence):
+1. Passes all the tests
+2. Reveals intention
+3. Remove duplication
+4. Fewest elements
+
