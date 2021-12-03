@@ -1,0 +1,22 @@
+What is extensibility?
+
+The code can do something different in the future than it does currently,
+based on the change in requirements, with minimum cost and effort for change.
+
+A piece of code can't be arbitrarily extensible
+
+For for a code to be extensible we have to anticipate, be deliberate, and govern
+
+Who can anticipate well?
+
+There are 3 kinds of people in every team:
+1. Those who know software design well but know nothing the domain 
+2. Those who know the domain really well but not software design
+3. The few who know both really well
+(we will politely ignore that 4th category)
+
+The team are often made of group 1 and 2, and group 3 is far less.
+Group 3 often is much better in anticipating than the rest of us.
+We have to collaborate, find if the extensibility thoughts and concerns are
+relevant.
+
