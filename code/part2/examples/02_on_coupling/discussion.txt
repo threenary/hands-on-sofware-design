@@ -1,0 +1,13 @@
+Tight coupling makes it harder to test and to extend.
+
+As much as possible favor loose coupling and low coupling to make
+the code extensible.
+
+Fewer things we depend on lowers the frequency of change
+
+The more abstract (as in an interface) a dependency is the more extensible
+the code that depends on it.
+
+But, please don't blindly apply these ideas. The goal should not be to 
+create interfaces or abstraction but to be very relevant.
+
