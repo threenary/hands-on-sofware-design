@@ -1,0 +1,15 @@
+Don't Repeat Yourself (DRY):
+
+Every piece of knowledge should have a single, unambiguous, 
+authoritative source of representation.
+
+Single Source of Truth
+
+We often think of duplication of code, but DRY is more than that.
+
+Duplication of effort, not just duplication of code.
+
+If we do manual testing, that is a violation of the DRY principle
+If we do manual deployment, that is a violation of the DRY princple
+
+
