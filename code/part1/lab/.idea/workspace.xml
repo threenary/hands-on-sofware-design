@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4ebb4673-b135-405d-8040-655aaa2e2577" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../../../../courses/reactive_programming_2days/src/csharp/drone/drone/DroneLocation.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../courses/reactive_programming_2days/src/csharp/drone/drone/DroneLocator.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../admin/invoice/TravelreceiptNJOslo.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../admin/invoice/ar/W9AgileDeveloper.pages" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../admin/invoice/ar/accounts_receivable_2013.pages" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../admin/invoice/ar/accounts_receivable_2013.pages" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../admin/invoice/ar/accounts_receivable_2014.pages" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../admin/invoice/ar/accounts_receivable_2014.pages" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../admin/invoice/devnexus/devnexus-travel-expensesVenkatAgileDeveloper.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../admin/invoice/devnexus/expenses.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../admin/invoice/devnexus/receipts.pages" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../admin/invoice/devnexus/receipts/airfare.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../admin/invoice/devnexus/receipts/hotel.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../admin/invoice/devnexus/receipts/taxi1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../admin/invoice/devnexus/receipts/taxi2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../admin/invoice/programutvikling/2014/expenses.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../admin/letters/envelop.pages" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../admin/letters/envelop.pages" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../admin/letters/signature.key" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../admin/letters/signature.key" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../admin/payroll/2014/InfoForW2.pages" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../admin/payroll/2014/InfoForW2.pages" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../admin/payroll/2014/payrollTax2014.numbers" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../admin/payroll/2014/payrollTax2014.numbers" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../admin/payroll/2014/payrollTaxPayments.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../admin/payroll/2014/payrollTaxPayments.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../admin/payroll/2014/profitSharing2014.numbers" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../admin/payroll/2014/profitSharing2014.numbers" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../admin/payroll/2014/yearend.pages" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../admin/payroll/2014/yearend.pages" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../admin/personnel/venkat_uh_resume.pages" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../admin/personnel/venkat_uh_resume.pages" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../courses/app_dev_w_groovy_and_grails/topics.todo" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../courses/app_dev_w_groovy_and_grails/topics.todo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../courses/checklist.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../courses/evolutionary_design_and_architecture/manual.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../courses/evolutionary_design_and_architecture/manual.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../courses/evolutionary_design_and_architecture/slides/how_to_create.key" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../courses/evolutionary_design_and_architecture/slides/why_evolutionary.key" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../courses/honing_your_tdd_skills/code/workshop/partIII" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../courses/honing_your_tdd_skills/code/workshop/partIII" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../courses/honing_your_tdd_skills/topics.todo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../courses/manuals/blank.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../courses/manuals/blank.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../courses/manuals/courseEval.pages" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../courses/manuals/courseEval.pages" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../courses/manuals/frontSheet.pages" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../courses/manuals/frontSheet.pages" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../courses/manuals/withProgramUtvikling.pages" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../courses/manuals/withProgramUtvikling.pages" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../courses/outline/AdvancesOnTheJVM_LangsAndLibs.pages" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../courses/outline/AgileDevelopmentBusinessPerspective.pages" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../courses/outline/AgileSoftwareDevelopmentPractices.pages" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../courses/outline/ApplicationDevelopmentWithCSharp.pages" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../courses/outline/ApplicationDevelopmentWithGroovyAndGrails.pages" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../courses/outline/ApplyingDesignPatterns.pages" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../courses/outline/ApplyingDesignPatternsToCreateSimpleDesign.pages" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../courses/outline/ApplyingModernLangugesToProgramTheJVM.pages" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../courses/outline/BenefitsAndPragmaticsOfTDD.pages" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../courses/outline/EvolutionaryCPP.pages" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../courses/outline/EvolutionaryDesignAndArchitectureForAgileDevelopment.pages" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../courses/outline/GroovyInPractice.pages" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../courses/outline/HoningTDD.pages" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../courses/outline/Java8DeepDive.pages" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../courses/outline/OOPinCPP.pages" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../courses/outline/PragmaticsOfAgileDevelopment.pages" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../courses/outline/ProgrammingInFunctionalStyle.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../courses/outline/ProgrammingInJava.pages" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../courses/outline/ProgrammingInJava.pages" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../courses/outline/ProgrammingInJava8.pages" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../courses/outline/ProgrammingInJava8.pages" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../courses/outline/ProgrammingInScala.pages" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../courses/outline/ProgrammingInScala.pages" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../courses/outline/PrudentObjectOrientedAnalysisAndDesign.pages" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../courses/outline/ReactiveProgrammingwithAkka.pages" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../courses/outline/RefactoringAndTestDrivingJavaApps.pages" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../courses/outline/SoftwareDesign.pages" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../courses/outline/SucceedingWithOutsourcedDevelopment.pages" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../courses/outline/TDD_1Day.pages" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../courses/outline/TestDrivenDesign.pages" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../courses/outline/TestDrivenDevelopment.pages" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../courses/outline/TestDrivenDevelopment.pages" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../courses/outline/WebDevelopmentWithHTML5AndJavaScript.pages" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../courses/outline/post/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../courses/outline/programmingScalaOneDay.pages" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../courses/programming_in_java8/manual.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../courses/programming_in_java8/manual.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../courses/programming_in_java8/quiz/designing_in_functional_style.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../courses/programming_in_java8/quiz/exploiting_concurrency.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../courses/programming_in_java8/quiz/function_composition.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../courses/programming_in_java8/quiz/function_composition.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../courses/programming_in_java8/quiz/quiz.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../courses/programming_in_java8/quiz/starting_with_lambda_expressions.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../courses/programming_in_java8/quiz/starting_with_lambda_expressions.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../courses/programming_in_java8/quiz/thinking_in_functional_style.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../courses/programming_in_java8/quiz/thinking_in_functional_style.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../courses/programming_in_java8/quiz/using_method_references.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../courses/programming_in_java8/quiz/using_method_references.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../courses/programming_in_java8/quiz/working_with_collections.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../courses/programming_in_java8/quiz/working_with_collections.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../courses/testdriving_your_dot_net_apps/TestDrivingYourDotNetApps.pages" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../courses/testdriving_your_dot_net_apps/TestDrivingYourDotNetApps.pages" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../courses/testdriving_your_dot_net_apps/code/labs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../courses/testdriving_your_dot_net_apps/references.pages" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../courses/testdriving_your_dot_net_apps/references.pages" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../courses/testdriving_your_dot_net_apps/topics.todo" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../courses/testdriving_your_dot_net_apps/topics.todo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../misc/notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../misc/notes.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2010/pointy_haired_bosses_and_pragmatic_programemrs/pointy_haired_bosses_and_pragmatic_programemrs.key" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../2010/pointy_haired_bosses_and_pragmatic_programemrs/pointy_haired_bosses_and_pragmatic_programemrs.key" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2010/test_driving_multithreaded_code/topics.todo" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../2010/test_driving_multithreaded_code/topics.todo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2011/rediscovering_javascript/topics.todo" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../2011/rediscovering_javascript/topics.todo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2011/testing_with_spock/topics.todo" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../2011/testing_with_spock/topics.todo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2012/html5_animations/runs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../2012/html5_animations/runs/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2012/html5_animations/runs/runAuto.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../2012/html5_animations/runs/runAuto.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2012/html5_animations/topics.todo" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../2012/html5_animations/topics.todo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2013/asynchronous_programming_on_the_dotnet_platform/topics.todo" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../2013/asynchronous_programming_on_the_dotnet_platform/topics.todo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2013/developing_offline_applications_with_html5/topics.todo" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../2013/developing_offline_applications_with_html5/topics.todo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2013/it_could_be_heaven_or_it_could_be_hell/it_could_be_heaven_or_it_could_be_hell.key" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../2013/it_could_be_heaven_or_it_could_be_hell/it_could_be_heaven_or_it_could_be_hell.key" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2013/javaone/programming_with_lambda_expressions_in_java/topics.todo" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../2013/javaone/programming_with_lambda_expressions_in_java/topics.todo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2013/modular_javascript/code/2_loading_file_with_require/node_modules/file0.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2013/server_side_programming_with_javascript/code/5_event_driven/node_modules/sleep/.npmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2013/server_side_programming_with_javascript/code/5_event_driven/node_modules/sleep/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2013/server_side_programming_with_javascript/code/5_event_driven/node_modules/sleep/binding.gyp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2013/server_side_programming_with_javascript/code/5_event_driven/node_modules/sleep/build.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2013/server_side_programming_with_javascript/code/5_event_driven/node_modules/sleep/build/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2013/server_side_programming_with_javascript/code/5_event_driven/node_modules/sleep/build/Release/.deps/Release/obj.target/sleep/sleep.o.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2013/server_side_programming_with_javascript/code/5_event_driven/node_modules/sleep/build/Release/.deps/Release/sleep.node.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2013/server_side_programming_with_javascript/code/5_event_driven/node_modules/sleep/build/Release/linker.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2013/server_side_programming_with_javascript/code/5_event_driven/node_modules/sleep/build/Release/sleep.node" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2013/server_side_programming_with_javascript/code/5_event_driven/node_modules/sleep/build/binding.Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2013/server_side_programming_with_javascript/code/5_event_driven/node_modules/sleep/build/config.gypi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2013/server_side_programming_with_javascript/code/5_event_driven/node_modules/sleep/build/gyp-mac-tool" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2013/server_side_programming_with_javascript/code/5_event_driven/node_modules/sleep/build/sleep.target.mk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2013/server_side_programming_with_javascript/code/5_event_driven/node_modules/sleep/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2013/server_side_programming_with_javascript/code/5_event_driven/node_modules/sleep/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2013/server_side_programming_with_javascript/code/5_event_driven/node_modules/sleep/sleep.cc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2013/server_side_programming_with_javascript/code/5_event_driven/node_modules/sleep/test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2013/the_art_of_simplicity/the_art_of_simplicity.key" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../2013/the_art_of_simplicity/the_art_of_simplicity.key" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2014/designing_with_lambda_expressions/topics.todo" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../2014/designing_with_lambda_expressions/topics.todo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2014/fmc_kongsberg/technical_practices_to_sustain_agile_development/topics.todo" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../2014/fmc_kongsberg/technical_practices_to_sustain_agile_development/topics.todo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2014/haskell_for_java_programmers/code/5_list_operations/sample.hs" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../2014/haskell_for_java_programmers/code/5_list_operations/sample.hs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2014/haskell_for_java_programmers/topics.todo" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../2014/haskell_for_java_programmers/topics.todo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2014/nationwide/core_software_design_principles/topics.todo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2014/openGIDSTalks.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2014/prepare.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2014/programming_with_lambda_expressions/topics.todo" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../2014/programming_with_lambda_expressions/topics.todo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2014/reactive_programming/topics.todo" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../2014/reactive_programming/topics.todo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2014/taking_command_of_the_command_line/topics.todo" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../2014/taking_command_of_the_command_line/topics.todo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2014/talks.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../2014/talks.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2014/the_joy_of_functional_programming/notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../2014/the_joy_of_functional_programming/notes.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2014/the_joy_of_functional_programming/the_joy_of_functional_programming.key" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../2014/the_joy_of_functional_programming/the_joy_of_functional_programming.key" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../2014/towards_an_evolutionary_architecture/topics.todo" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../2014/towards_an_evolutionary_architecture/topics.todo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../projects/svnpwdreset/agilesvn/svnpwdreset/app/views/users/index.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../projects/svnpwdreset/agilesvn/svnpwdreset/app/views/users/index.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../scripts/AmazonSalesRank.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../scripts/AmazonSalesRank.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../scripts/applescripts/sortScores.scpt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../scripts/applescripts/sortScores.scpt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../scripts/applescripts/tmfullscreen.scpt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../scripts/applescripts/tmfullscreen.scpt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../scripts/checkinReview.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../scripts/checkinReview.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../scripts/checkin_cs_indexed" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../scripts/checkin_cs_indexed" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../scripts/checkin_java_indexed" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../scripts/checkin_java_indexed" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../scripts/cpfiles.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../scripts/cpfiles.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../scripts/create_web_site/course_list.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../scripts/create_web_site/course_list.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../scripts/create_web_site/create_aboutus.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../scripts/create_web_site/create_aboutus.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../scripts/create_web_site/create_conferences.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../scripts/create_web_site/create_conferences.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../scripts/create_web_site/create_contactus.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../scripts/create_web_site/create_contactus.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../scripts/create_web_site/create_courses.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../scripts/create_web_site/create_courses.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../scripts/create_web_site/create_download.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../scripts/create_web_site/create_download.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../scripts/create_web_site/create_one_course.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../scripts/create_web_site/create_one_course.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../scripts/create_web_site/create_page.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../scripts/create_web_site/create_page.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../scripts/create_web_site/create_talks.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../scripts/create_web_site/create_talks.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../scripts/create_web_site/create_testimonials.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../scripts/create_web_site/create_testimonials.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../scripts/create_web_site/genpage.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../scripts/create_web_site/genpage.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../scripts/create_web_site/talks.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../scripts/create_web_site/tweets.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../scripts/reminder" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../scripts/reminder" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../scripts/reviewEmail.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../scripts/reviewEmail.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../scripts/runIfChanged.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../scripts/runIfChanged.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../scripts/svnutil/statsvn-0.7.0/readme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../scripts/urls.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../scripts/urls.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../system/desktopPictures/boulder.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../system/desktopPictures/eclipse.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../system/desktopPictures/moon.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../system/desktopPictures/mountrushmore.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../system/desktopPictures/waterFall.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../system/dot_bash_profile" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../system/dot_bash_profile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../system/licenses/MSLicenses.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../system/licenses/MSLicenses.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../system/mysql.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../system/mysql.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../system/pwds" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../system/pwds" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../tips/misc" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../tips/misc" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../../.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1c8Sr4jcJIyFodYhwpEzwSjGPOz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunManager" selected="JUnit.UtilTest">
+    <configuration name="PencilTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.agiledeveloper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.agiledeveloper" />
+      <option name="MAIN_CLASS_NAME" value="com.agiledeveloper.PencilTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PencilTest.canary" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.agiledeveloper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.agiledeveloper" />
+      <option name="MAIN_CLASS_NAME" value="com.agiledeveloper.PencilTest" />
+      <option name="METHOD_NAME" value="canary" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BSP.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UtilTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.agiledeveloper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.agiledeveloper" />
+      <option name="MAIN_CLASS_NAME" value="com.agiledeveloper.UtilTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.UtilTest" />
+        <item itemvalue="JUnit.PencilTest" />
+        <item itemvalue="JUnit.PencilTest.canary" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4ebb4673-b135-405d-8040-655aaa2e2577" name="Default Changelist" comment="" />
+      <created>1589908922642</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589908922642</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1878" height="330" key="GridCell.Tab.0.bottom" timestamp="1592854552578">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state width="1878" height="330" key="GridCell.Tab.0.bottom/0.23.1920.1177@0.23.1920.1177" timestamp="1592854552578" />
+    <state width="1878" height="330" key="GridCell.Tab.0.center" timestamp="1592854552578">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state width="1878" height="330" key="GridCell.Tab.0.center/0.23.1920.1177@0.23.1920.1177" timestamp="1592854552578" />
+    <state width="1878" height="330" key="GridCell.Tab.0.left" timestamp="1592854552577">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state width="1878" height="330" key="GridCell.Tab.0.left/0.23.1920.1177@0.23.1920.1177" timestamp="1592854552577" />
+    <state width="1878" height="330" key="GridCell.Tab.0.right" timestamp="1592854552578">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state width="1878" height="330" key="GridCell.Tab.0.right/0.23.1920.1177@0.23.1920.1177" timestamp="1592854552578" />
+    <state x="469" y="250" key="SettingsEditor" timestamp="1592851540218">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state x="469" y="250" key="SettingsEditor/0.23.1920.1177@0.23.1920.1177" timestamp="1592851540218" />
+    <state width="500" height="445" key="SwitcherDM" timestamp="1592854273323">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state width="500" height="445" key="SwitcherDM/0.23.1920.1177@0.23.1920.1177" timestamp="1592854273323" />
+  </component>
+</project>
