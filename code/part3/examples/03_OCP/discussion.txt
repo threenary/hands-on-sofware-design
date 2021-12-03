@@ -1,0 +1,53 @@
+Open Closed Principle (OCP)
+
+A software module must be open for extension but closed for modification
+Bertrand Meyer
+
+It is generally more expensive to change a piece code than to add a very small
+piece code.
+
+Abstraction and polymorphism are they key.
+
+What is the worst in Java/C#/C++ from the point of view of extensibility
+or polymorphism?
+
+new
+
+new is Latin for tight coupling
+
+new says I want an instance of that particular class and nothing else
+
+new is actually polymorphism in languages like Ruby
+Python and Kotlin, for example, don't even have new as a keyword
+
+An entire set of design patterns (Abstract Factory, Factory method, Prototype,...) and entire suite of libraries and frameworks like Guice, Spring, etc. have
+been created just to address that evil power of new
+
+If we use instanceof we may be violating OCP, but not all the time
+
+//If this code is within an Animal class
+public boolean equals(Object other) {
+   if(other instanceof Animal) { //this use of instanceof is OK, not violating OCP
+      ...
+   }
+
+   return false;
+}
+
+Likewise
+
+Think of an API
+
+  public ArrayList<Book> getBooks() - not a good design
+If we change to use something like a LinkedList, then we have to change
+the user side code. OCP
+
+
+  public List<Book> getBooks() - a little bit better
+    We can use different types List, but what if we choose to use a Set instead.
+
+
+  public Iterator<Book> getBooks() - a lot better
+  public Stream<Book> getBooks() - a lot better and lazy
+
+
